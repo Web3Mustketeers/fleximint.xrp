@@ -1,2 +1,2 @@
 # fleximint.xrp
-enables central banks to seamlessly create and launch CBDC pegged either to minerals or fiat currencies leveraging oracles for real-time prices
+a platform on top of the XRP Ledger that enables central banks to seamlessly create and launch CBDC pegged either to minerals or fiat currencies leveraging oracles for real-time price, with a multi-sign wallet for central banks decision makers holding and having authority on the CBDC, and they can send this CBDC to any wallet they want, and even program the disbursement (period, rate, etc...) of the CBDC to the wallets or institutions they select, and have transaction history of all the transactions processed and settled using that CBDC
